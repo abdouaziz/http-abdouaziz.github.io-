@@ -2,7 +2,7 @@
 title: 'Abdou Aziz DIOP'
 layout: single
 author_profile: true
-
+excerpt: ' I am looking for new  opportunities.'
 header:
   overlay_image: /images/good.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
