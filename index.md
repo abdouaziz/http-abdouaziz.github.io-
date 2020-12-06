@@ -46,7 +46,7 @@ You can check about my different projects on my [projects page](https://rafaelca
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/abdouaziz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdouaziz" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/abdouaziiz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdouaziz" /></a></p><br><br>
 
 
 
@@ -56,8 +56,6 @@ You can check about my different projects on my [projects page](https://rafaelca
 |----------|--------|
 | English  | Fluent |
 | French   | Fluent |
-| Mandarin | Intermediate (preparing HSK4) |
-| Spanish  | Proficient |
 
 ## CV
 
