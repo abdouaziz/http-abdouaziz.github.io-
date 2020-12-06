@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 excerpt: 'I am willing to relocate in Shanghai, from June 2020. I am looking for new career opportunities.'
 header:
-  overlay_image: /images/paris.jpg
+  overlay_image: /images/good.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
@@ -67,4 +67,4 @@ Update: 2020/01/13
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_[rafael.cartenet@gmail.com](mailto:rafael.cartenet@gmail.com)_**
+For any inquires, you can reach me via email: **_[abdouaziz@gmail.com](mailto:abdouaziz@gmail.com)_**
