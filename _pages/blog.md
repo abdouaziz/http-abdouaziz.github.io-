@@ -6,5 +6,5 @@ author_profile: true
 excerpt: 'Here you will find articles that I write about projects, news or to keep track of what I have been doing.'
 header:
   overlay_image: /images/waterfront.jpg
-  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
 ---

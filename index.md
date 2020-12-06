@@ -1,11 +1,11 @@
 ---
-title: 'Rafael Cartenet'
+title: 'Abdou Aziz DIOP'
 layout: single
 author_profile: true
 
 header:
   overlay_image: /images/good.jpg
-  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
 ---
 
 # About me
