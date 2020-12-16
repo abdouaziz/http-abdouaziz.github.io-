@@ -41,7 +41,6 @@ header:
 I got myself into Data Science early in my education and had the chance to get my hands on all kinds of data, from sequential to spatial, images, audio signals, BI data etc.  
 As an R&D Engineer, I love to put forward my technical and analytical skills, tackle original problems and learn every day.*
 
-You can check about my different projects on my [projects page](https://rafaelcartenet.github.io/projects/)
 
 ## Previous work experiences
 
