@@ -10,9 +10,31 @@ header:
 
 # About me
 
-I'm currently working at [Openfield](http://openfieldlive.com/?lang=en) in Paris, as a full-time **Machine-Learning R&D Engineer**, since June 2018.
+I have certain undeniable qualities of work as well as an immoderate pension for math and computer science and an ease of communication. I'm a person who is willing and tenacious in my work. Motivation, rigor and listening are the key words of my behavior.
 
----
+
+--- 
+
+
+## Educations
+
+| Degree | University  | Start data |End date |
+|----------|--------|---------------|----------|
+| Master of Science in Transmission of data and System information  | Cheikh Anta Diop University | September 2018 | December 2019 |
+| Master of Science in Mathematique and applications   | Thiés University | May 2015 | March 2017 |
+| Bachelor of Science in Mathematique and Computer Science | Thiés University | October 2013 | August 2015  |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 *As a problem-solving enthusiast, I have always been eager to meet new technical challenges, where I can learn some new things and feed my curiosity.  
