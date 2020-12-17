@@ -10,7 +10,8 @@ header:
 
 # About me
 
-*I have certain undeniable qualities of work as well as an immoderate pension for math and computer science and an ease of communication. I'm a person who is willing and tenacious in my work. Motivation, rigor and listening are the key words of my behavior.*
+*I have certain undeniable qualities of work as well as an immoderate pension for math and computer science and an ease of communication.I got myself into Data Science early in my education and had the chance to get my hands on all kinds of data, from sequential to spatial, images, audio signals etc.*
+*I'm a person who is willing and tenacious in my work. Motivation, rigor and listening are the key words of my behavior*
 
 
 --- 
@@ -25,22 +26,7 @@ header:
 | Bachelor of Science in Mathematique and Computer Science | Thiés University | October 2013 | August 2015  |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-*As a problem-solving enthusiast, I have always been eager to meet new technical challenges, where I can learn some new things and feed my curiosity.  
-I got myself into Data Science early in my education and had the chance to get my hands on all kinds of data, from sequential to spatial, images, audio signals, BI data etc.  
-As an R&D Engineer, I love to put forward my technical and analytical skills, tackle original problems and learn every day.*
-
+---
 
 ## Previous work experiences
 
