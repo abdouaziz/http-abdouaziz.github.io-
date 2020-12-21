@@ -30,8 +30,10 @@ header:
 
 ## Previous work experiences
 
-- **Software Engineer& Data Scientist** - Dakar , Sénégal:  
-  I completed my end-of-study internship in Shanghai as a Machine Learning R&D Engineer for a sino-french startup called **[Baamtu SARL](http://https://baamtu.com/)**. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
+- **Software Engineer& Data Scientist** - Dakar , Sénégal: 
+  I completed internship in a startup called **[Baamtu SARL](http://https://baamtu.com/)** where i have to set up a dashboard for the use of the Api OCR .
+  To develop an application called ganeyi compliance, an application that allows to manage customer compliance.
+  
 
 - **Software Engineer** -  Dakar , Sénégal: 
   I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence **[FINLENCE]( https://www.finlence.com/)** where I worked on video classification for the CVPR2017 workshop, especially working on *Attention Gated LSTM Cell*, in TensorFlow.
@@ -45,22 +47,7 @@ header:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abdouaziiz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdouaziz" /></a></p><br><br>
 
-
----
-## Stats Github
-
-
-<summary>:zap: GitHub Stats</summary>
-<img align="left" alt="abdouaziiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdouaziz&show_icons=true&hide_border=true" />
-
  
- 
- 
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
 
 ---
 
