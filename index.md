@@ -30,6 +30,22 @@ header:
 
 ## Previous work experiences
 
+- **Software Engineer& Data Scientist** - Dakar , Sénégal:  
+  I completed my end-of-study internship in Shanghai as a Machine Learning R&D Engineer for a sino-french startup called **[Baamtu SARL](http://https://baamtu.com/)**. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
+
+- **Research Assistant** - Daejon (South-Korea):  
+  I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence **[AIM](http://slsp.kaist.ac.kr/xe/)** where I worked on video classification for the CVPR2017 workshop, especially working on *Attention Gated LSTM Cell*, in TensorFlow.
+
+- **Software Engineer Intern** - Paris:  
+  I have been an intern at **[Aerow](https://www.aerow.group/en/home/)** in Paris, as a Software Engineer and integrator. I have been developing a simple OCR for bankcheques CMC7 code, using simple *Machine-Learning* techniques.
+
+## Education
+
+- **Graduate Exchange Program** - Daejeon (South-Korea):  
+  I studied abroad for a year in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
+
+- **Master Of Engineering** - Rouen (France):  
+  I graduated from INSA Rouen Normandy with a Master of Engineering in April 2018, majoring in *Applied Mathematics* and *Computer Science*.
 
 ---
 <h3 align="left">Languages and Tools:</h3>
@@ -39,6 +55,14 @@ header:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abdouaziiz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdouaziz" /></a></p><br><br>
 
+
+
+
+---
+
+## Certifications 
+
+**[DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/professional-cert/Y4VNWM3Z6WW8)**
 
 
 ## Languages
