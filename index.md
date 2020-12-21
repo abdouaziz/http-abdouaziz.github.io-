@@ -77,7 +77,6 @@ Find attached the PDF version of my CVs:
 *English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
 *French version*: [CV]({{ site.url }}/download/CV_french.pdf)
 
-Update: 2020/01/13
 
 
 
@@ -89,3 +88,6 @@ Update: 2020/01/13
 ## Contact me
 
 For any inquires, you can reach me via email: **_[abdouaziz@gmail.com](mailto:abdouaziz@gmail.com)_**
+
+
+Update: 2020/12/21
