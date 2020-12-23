@@ -3,7 +3,7 @@ title: 'Projects'
 layout: single
 permalink: /projects/
 author_profile: true
-excerpt: 'You will find below a non-exhaustive list of the different projects I realized during the last years, as well as links to the source codes, if publicly available.'
+excerpt: 'You will find below a non-exhaustive list of the different projects I realized , as well as links to the source codes, if publicly available.'
 header:
   overlay_image: /images/waterfront.jpg
   overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
@@ -12,7 +12,9 @@ header:
 
 
 ## NLP / Computational linguistics
-[**LSTM - GRU**](https://github.com/abdouaziz/maodopoetry): Implementation An AI model that generates poems about El Hadji Malick Sy .
+
+-[**LSTM - GRU**](https://github.com/abdouaziz/maodopoetry): Implementation An AI model that generates poems about El Hadji Malick Sy .
+
 <!-- -
 - [**OCR for bank cheques CMC7 codes**](https://github.com/RafaelCartenet/OCR-CMC7): My simple approach for bank cheques' CMC7 code extraction using SVM.
 - [**AlexNet Image Classification**](https://github.com/RafaelCartenet/AlexNetClassification): Implemented AlexNet CNN for image classification, on a set of given classes.
