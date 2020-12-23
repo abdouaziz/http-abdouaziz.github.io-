@@ -9,12 +9,11 @@ header:
   overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
 ---
 
-##Coming soon
 
-<!-- - 
-## Computer Vision
-[**Attention Gated LSTM**](https://github.com/RafaelCartenet/AttentionGatedLSTM): Implementation of an Attention Gated Model, for Youtube8m classification challenge.
 
+## NLP / Computational linguistics
+[**LSTM - GRU**](https://github.com/abdouaziz/maodopoetry): Implementation An AI model that generates poems about El Hadji Malick Sy .
+<!-- -
 - [**OCR for bank cheques CMC7 codes**](https://github.com/RafaelCartenet/OCR-CMC7): My simple approach for bank cheques' CMC7 code extraction using SVM.
 - [**AlexNet Image Classification**](https://github.com/RafaelCartenet/AlexNetClassification): Implemented AlexNet CNN for image classification, on a set of given classes.
 
