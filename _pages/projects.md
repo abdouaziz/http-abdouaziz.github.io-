@@ -13,7 +13,9 @@ header:
 
 ## NLP / Computational linguistics
 
-- [**LSTM - GRU**](https://github.com/abdouaziz/maodopoetry): Implementation An AI model that generates poems about El Hadji Malick Sy .
+- [**LSTM - GRU**](https://github.com/abdouaziz/maodopoetry): Implementation An AI model that generates poems about El Hadji Malick Sy . 
+- [**N-grams - Language Model**](https://github.com/abdouaziz/autocomplet): An example of auto complete as google does for search
+
 
 <!-- -
 - [**OCR for bank cheques CMC7 codes**](https://github.com/RafaelCartenet/OCR-CMC7): My simple approach for bank cheques' CMC7 code extraction using SVM.
